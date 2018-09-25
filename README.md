@@ -9,3 +9,6 @@ Parameters Used:-
 	2nd Learning rate(Roh) = 0.11
 	No. of Gaussians/Pixel = 3
 	Initial Cluster means for K-means = 50,130,210
+
+For video outputs see following link:
+	https://www.youtube.com/playlist?list=PLDiP6XkqGPuzlFT7Ur4UoKlD0hvrVWYLu
